@@ -1,0 +1,1429 @@
+<!DOCTYPE html>
+<html lang="en-US" class="stm-site-preloader" class="no-js">
+<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://sustainablemanagement.solutions/xmlrpc.php">
+    <title>Sustainability Management Consulting &#8211; Mark Borg</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sustainability Management Consulting &raquo; Feed" href="https://sustainablemanagement.solutions/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sustainability Management Consulting &raquo; Comments Feed" href="https://sustainablemanagement.solutions/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sustainablemanagement.solutions\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sbi_styles-css'  href='https://sustainablemanagement.solutions/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://sustainablemanagement.solutions/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://sustainablemanagement.solutions/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='stm-stm-css'  href='https://sustainablemanagement.solutions/wp-content/uploads/stm_fonts/stm/stm.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-min-css'  href='https://sustainablemanagement.solutions/wp-content/plugins/stm-post-type/theme-options/nuxy/metaboxes/assets/vendors/font-awesome.min.css?ver=1665210305' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/css/bootstrap.min.css?ver=6.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/css/font-awesome.min.css?ver=6.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-style-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/style.css?ver=6.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-layout-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/css/layouts/layout_1/main.css?ver=6.3.3' type='text/css' media='all' />
+<style id='consulting-layout-inline-css' type='text/css'>
+.page_title{ background-repeat: repeat !important; background-repeat: url(http://r) !important; }.mtc, .mtc_h:hover{
+					color: #002e5b!important
+				}.stc, .stc_h:hover{
+					color: #6c98e1!important
+				}.ttc, .ttc_h:hover{
+					color: #fde428!important
+				}.mbc, .mbc_h:hover, .stm-search .stm_widget_search button{
+					background-color: #002e5b!important
+				}.sbc, .sbc_h:hover{
+					background-color: #6c98e1!important
+				}.tbc, .tbc_h:hover{
+					background-color: #fde428!important
+				}.mbdc, .mbdc_h:hover{
+					border-color: #002e5b!important
+				}.sbdc, .sbdc_h:hover{
+					border-color: #6c98e1!important
+				}.tbdc, .tbdc_h:hover{
+					border-color: #fde428!important
+				}.page-id-1024 #main { padding-bottom: 0px; } h2.consulting-custom-title { text-transform: capitalize; } #footer .footer_widgets .widget.widget_nav_menu ul li a { color: #15c1c6; } #footer .footer_widgets .widget.widget_recent_entries ul li .post-date:before { color: #15c1c6; } .stm_list-duty li i { color: #15c1c6; } #footer .footer_widgets { padding: 20px 0 0 !important; } .elementor-element-e5a8666 .elementor .elementor-hidden-mobile, .elementor .elementor-hidden-phone { display: inline-block !important; } .mobile_grid_landscape .header-box .container .nav-box .main_menu_nav > li > a { text-transform: capitalize !important; } .elementor-element.elementor-element-f410139.team-title.elementor-widget.elementor-widget-heading { } .team-title h2:after { display: none; } .services h2:after { display: none; } .intervention h2:after { display: none; } .elementor-element.elementor-element-d310bbd.team-subtitle.elementor-widget.elementor-widget-heading { } .team-subtitle h6:after { display: none; } .page-id-6238 .page_title { margin: 0 0 0px; } i.stm-location-2 { display: none; } @media only screen and (min-width: 320px) and (max-width: 480px) { .button.bordered.icon_right.theme_style_4 { position: relative; left: 100px; } .fa.fa-chevron-right { position: relative; left: 5px; top: 7px; } }
+</style>
+<link rel='stylesheet' id='select2-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/css/select2.min.css?ver=6.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='header_builder-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/css/header_builder.css?ver=6.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-default-font-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=6.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='stm-skin-custom-generated-css'  href='https://sustainablemanagement.solutions/wp-content/uploads/stm_uploads/skin-custom.css?ver=909' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-theme-options-css'  href='https://sustainablemanagement.solutions/wp-content/uploads/stm_uploads/theme_options.css?ver=6.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='consulting-global-styles-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/css/layouts/global_styles/main.css?ver=6.3.3' type='text/css' media='all' />
+<style id='consulting-global-styles-inline-css' type='text/css'>
+
+    
+        .elementor-widget-video .eicon-play {
+            border-color: #AFC82C;
+            background-color: #AFC82C;
+        }
+
+        .elementor-widget-wp-widget-nav_menu ul li,
+        .elementor-widget-wp-widget-nav_menu ul li a {
+            color: #0076AE;
+        }
+
+        .elementor-widget-wp-widget-nav_menu ul li.current-cat:hover>a,
+        .elementor-widget-wp-widget-nav_menu ul li.current-cat>a,
+        .elementor-widget-wp-widget-nav_menu ul li.current-menu-item:hover>a,
+        .elementor-widget-wp-widget-nav_menu ul li.current-menu-item>a,
+        .elementor-widget-wp-widget-nav_menu ul li.current_page_item:hover>a,
+        .elementor-widget-wp-widget-nav_menu ul li.current_page_item>a,
+        .elementor-widget-wp-widget-nav_menu ul li:hover>a {
+            border-left-color:  #15c1c6;
+        }
+
+        div.elementor-widget-button a.elementor-button,
+        div.elementor-widget-button .elementor-button {
+            background-color: #0076AE;
+        }
+
+        div.elementor-widget-button a.elementor-button:hover,
+        div.elementor-widget-button .elementor-button:hover {
+            background-color: #AFC82C;
+            color: #0076AE;
+        }
+
+        .elementor-default .elementor-text-editor ul:not(.elementor-editor-element-settings) li:before,
+        .elementor-default .elementor-widget-text-editor ul:not(.elementor-editor-element-settings) li:before {
+            color:  #15c1c6;
+        }
+
+        .consulting_elementor_wrapper .elementor-tabs .elementor-tabs-content-wrapper .elementor-tab-mobile-title,
+        .consulting_elementor_wrapper .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title {
+            background-color: #AFC82C;
+        }
+
+        .consulting_elementor_wrapper .elementor-tabs .elementor-tabs-content-wrapper .elementor-tab-mobile-title,
+        .consulting_elementor_wrapper .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title a {
+            color: #0076AE;
+        }
+
+        .consulting_elementor_wrapper .elementor-tabs .elementor-tabs-content-wrapper .elementor-tab-mobile-title.elementor-active,
+        .consulting_elementor_wrapper .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title.elementor-active {
+            background-color: #0076AE;
+        }
+
+        .consulting_elementor_wrapper .elementor-tabs .elementor-tabs-content-wrapper .elementor-tab-mobile-title.elementor-active,
+        .consulting_elementor_wrapper .elementor-tabs .elementor-tabs-wrapper .elementor-tab-title.elementor-active a {
+            color: #AFC82C;
+        }
+
+        .radial-progress .circle .mask .fill {
+            background-color: #AFC82C;
+        }
+
+        html body #header .top_bar {
+            background-color: #31353d;
+        }
+        html body #header .top_bar .container .lang_sel>ul>li .lang_sel_sel,
+        html body #header .top_bar .container .lang_sel>ul>li>ul a {
+            color: #ffffff;
+        }
+        html body #header .top_bar .container .lang_sel>ul>li .lang_sel_sel:after {
+            border-top: 5px solid #ffffff;
+        }
+        html body #header .top_bar .container .lang_sel>ul>li>ul {
+            background-color: #0076AE;
+        }
+        html body #header .top_bar .container .lang_sel>ul>li>ul a:hover {
+            background-color:  #15c1c6;
+        }
+        html body #header .top_bar .container .top_bar_cart .count {
+            background-color: ;
+        }
+        html body #header .top_bar .container .top_bar_cart a {
+            color: ;
+        }
+        html body #header .top_bar .container .top_bar_search .search-icon {
+            color: ;
+        }
+        html body #header .top_bar .container .top_bar_socials a {
+            color: ;
+        }
+        html body #header .top_bar .container .top_bar_socials a:hover {
+            color: ;
+        }
+        html body #header .top_bar .container .top_bar_info_wr .top_bar_info li,
+        html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher ul li a {
+            color: #ffffff;
+        }
+        html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher {
+            background-color: #AFC82C;
+        }
+        html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher .active:after {
+            border-top: 5px solid #0076AE;
+        }
+        html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher ul {
+            background-color: #0076AE;
+        }
+        html body #header .top_bar .container .top_bar_info_wr .top_bar_info_switcher ul li a:hover {
+            background-color:  #15c1c6;
+        }
+
+    
+
+    
+</style>
+<link rel='stylesheet' id='stm_megamenu-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/inc/megamenu/assets/css/megamenu.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css'  href='https://sustainablemanagement.solutions/wp-content/uploads/elementor/css/post-5.css?ver=1665105958' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.7.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.7.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1024-css'  href='https://sustainablemanagement.solutions/wp-content/uploads/elementor/css/post-1024.css?ver=1665206197' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/themes/consulting/inc/megamenu/assets/js/megamenu.js?ver=6.0.2' id='stm_megamenu-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.7.8' id='font-awesome-4-shim-js'></script>
+<link rel="https://api.w.org/" href="https://sustainablemanagement.solutions/wp-json/" /><link rel="alternate" type="application/json" href="https://sustainablemanagement.solutions/wp-json/wp/v2/pages/1024" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sustainablemanagement.solutions/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sustainablemanagement.solutions/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.2" />
+<link rel="canonical" href="https://sustainablemanagement.solutions/" />
+<link rel='shortlink' href='https://sustainablemanagement.solutions/' />
+<link rel="alternate" type="application/json+oembed" href="https://sustainablemanagement.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsustainablemanagement.solutions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sustainablemanagement.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsustainablemanagement.solutions%2F&#038;format=xml" />
+	<script type="text/javascript">
+		var stm_wpcfto_ajaxurl = 'https://sustainablemanagement.solutions/wp-admin/admin-ajax.php';
+	</script>
+
+	<style>
+		.vue_is_disabled {
+			display: none;
+		}
+	</style>
+		<script>
+		var stm_wpcfto_nonces = {"wpcfto_save_settings":"b21bd58136","get_image_url":"8d0b877db6","wpcfto_upload_file":"0f6b876c8e","wpcfto_search_posts":"ad65432a20"};
+	</script>
+			<script type="text/javascript">
+			var ajaxurl = 'https://sustainablemanagement.solutions/wp-admin/admin-ajax.php';
+			var stm_ajax_load_events = '68c818e799';
+			var stm_ajax_load_portfolio = '6d2fd3a615';
+			var stm_ajax_add_event_member_sc = '2d389fc759';
+			var stm_custom_register = 'e99ce9def8';
+			var stm_get_prices = '9a8b771a7a';
+			var stm_get_history = 'db4bfd0a5e';
+			var stm_ajax_add_review = 'ab6c03d6c0';
+		</script>
+				<style>
+			#wp-admin-bar-consulting_settings			img {
+				max-width: 25px;
+				vertical-align: top;
+				position: relative;
+				top: 3px;
+			}
+		</style>
+		<meta name="generator" content="Powered by Slider Revolution 6.5.19 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/cropped-favicon-270x270.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+    </head>
+<body class="home page-template-default page page-id-1024 site_layout_1  default_header_builder header_style_10 mobile_grid_landscape vc_sidebar_page elementor-default elementor-kit-5 elementor-page elementor-page-1024">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+    <div id="wrapper">
+
+        <div id="fullpage" class="content_wrapper">
+	<div id="menu_toggle_button" style="display: none;">
+		<button>&nbsp;</button>
+	</div>
+    <header id="header">
+        <div class="top_bar mobile_wpml_hidden mobile_contacts_hidden mobile_socials_hidden mobile_cart_hidden mobile_search_hidden">
+	<div class="container">
+
+		
+					<div class="top_bar_info_wr" style="justify-content: right">
+				
+									<ul class="top_bar_info" id="top_bar_info_0" style="display: block;">
+																									<li>
+																	<i class="stm-contact_email" style="font-size: 15px; color: #15c1c6;"></i>
+																<span>
+                            admin@sustainablemanagement.solutions                        </span>
+							</li>
+																			<li>
+																	<i class="stm-phone_13_2" style="font-size: 15px; color: #15c1c6;"></i>
+																<span>
+                            +6799427485                        </span>
+							</li>
+											</ul>
+							</div>
+		
+		
+		
+			</div>
+</div>
+<div class="header-box
+			hide_wpml_on_mobile
+			">
+	<div class="container">
+		<div class="logo-box">
+			<div class="logo logo-desktop">
+															<a href="https://sustainablemanagement.solutions/" style="margin: -12px 0px 0px 0px;">
+							<img src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/SDMS-logo-1-final.png" style="width: 300px; height: px;" alt="Sustainability Management Consulting" />
+						</a>
+												</div>
+			<div class="logo logo-mobile">
+									<a href="https://sustainablemanagement.solutions/" style="margin: -12px 0px 0px 0px;">
+						<img src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/SDMS-logo-1-final.png" style="width: 300px; height: px;" alt="Sustainability Management Consulting" />
+					</a>
+							</div>
+			<div class="menu-toggle">
+				<button>&nbsp;</button>
+			</div>
+		</div>
+
+		<div class="nav-box">
+			<ul id="menu-main-primary-menu" class="main_menu_nav"><li id="menu-item-6887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1024 current_page_item menu-item-6887"><a href="https://sustainablemanagement.solutions/" aria-current="page">Home</a></li>
+<li id="menu-item-7068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7068"><a href="https://sustainablemanagement.solutions/about-us/">About Us</a></li>
+<li id="menu-item-7036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7036"><a href="https://sustainablemanagement.solutions/blogs/">Blogs</a></li>
+<li id="menu-item-6890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6890"><a href="https://sustainablemanagement.solutions/services/">Services</a></li>
+<li id="menu-item-6891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6891"><a href="https://sustainablemanagement.solutions/contact-us/">Contact Us</a></li>
+</ul>		</div>
+
+		
+					<div class="socials-box
+									hide_on_mobile
+									">
+									<a target="_blank" href="https://www.facebook.com/SDManagementConsulting/">
+						<i class="fa fa-facebook">&nbsp;</i>
+					</a>
+									<a target="_blank" href="https://www.linkedin.com/in/mark-borg-9025b149">
+						<i class="fa fa-linkedin">&nbsp;</i>
+					</a>
+							</div>
+		
+		
+		
+			</div>
+</div>
+    </header>
+    <div id="main" >
+                <div class="">
+
+	<div class="content-area">
+
+		
+<article id="post-1024" class="consulting_elementor_wrapper post-1024 page type-page status-publish hentry">
+
+	<div class="entry-content">
+							<div data-elementor-type="wp-page" data-elementor-id="1024" class="elementor elementor-1024">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e5a8666 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5a8666" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5a8b3c elementor-hidden-phone" data-id="e5a8b3c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5a8eec elementor-widget elementor-widget-slider_revolution" data-id="e5a8eec" data-element_type="widget" data-widget_type="slider_revolution.default">
+				<div class="elementor-widget-container">
+			
+		<div class="wp-block-themepunch-revslider">
+			<!-- START Fullscreen Main Slider REVOLUTION SLIDER 6.5.19 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;">
+				<rs-module id="rev_slider_1_1" style="" data-version="6.5.19">
+					<rs-slides>
+						<rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-thumb="//sustainablemanagement.solutions/wp-content/uploads/2022/10/101-100x50.png" data-duration="5000" data-in="o:0;" data-out="a:false;">
+							<img src="//sustainablemanagement.solutions/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="101" width="2560" height="1700" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//sustainablemanagement.solutions/wp-content/uploads/2022/10/101.png" data-bg="p:center top;" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-1-layer-1" 
+								data-type="text"
+								data-rsp_ch="on"
+								data-xy="xo:30px;y:m;yo:-83px;"
+								data-text="l:22;"
+								data-frame_0="x:-50px;"
+								data-frame_1="e:power2.inOut;st:500;sp:1000;sR:500;"
+								data-frame_999="o:0;e:nothing;st:w;sR:3500;"
+								style="z-index:5;font-family:'Roboto';"
+							><div class="consulting-rev-title">
+<mark style="color: #ffffff;">Full Cycle Business Management</mark>
+</div> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-2" 
+								data-type="text"
+								data-color="rgba(255, 255, 255, 1)"
+								data-rsp_ch="on"
+								data-xy="xo:30px;y:m;yo:130px;"
+								data-text="l:22;"
+								data-frame_0="y:50px;"
+								data-frame_1="e:power2.inOut;st:760;sp:1000;sR:760;"
+								data-frame_999="o:0;e:nothing;st:w;sR:3240;"
+								style="z-index:7;font-family:'Roboto';"
+							><a href="https://sustainablemanagement.solutions/about-us/" class="button bordered icon_right">About Us<i class="fa fa-chevron-right"></i></a> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-3" 
+								data-type="text"
+								data-rsp_ch="on"
+								data-xy="xo:30px;y:m;yo:20px;"
+								data-text="l:22;"
+								data-frame_0="x:50px;"
+								data-frame_1="e:power2.inOut;st:500;sp:1000;sR:500;"
+								data-frame_999="o:0;e:nothing;st:w;sR:3500;"
+								style="z-index:6;font-family:'Roboto';"
+							><div style="color: #fff !important;" class="consulting-rev-text">We look forward to getting to know you and to <br/>helping you take your company to new heights!</div> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-12" 
+								data-type="text"
+								data-color="rgba(255, 255, 255, 1)"
+								data-rsp_ch="on"
+								data-xy="xo:200px;y:m;yo:130px;"
+								data-text="l:22;"
+								data-frame_0="y:50px;"
+								data-frame_1="e:power2.inOut;st:880;sp:950;sR:880;"
+								data-frame_999="o:0;e:nothing;st:w;sR:3170;"
+								style="z-index:8;font-family:'Roboto';"
+							><a href="/services/" class="button bordered icon_right theme_style_4">Our Services<i class="fa fa-chevron-right"></i></a> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-8" data-title="Slide" data-thumb="//sustainablemanagement.solutions/wp-content/uploads/2022/10/104-100x50.png" data-duration="5000" data-in="o:0;" data-out="a:false;">
+							<img loading="lazy" src="//sustainablemanagement.solutions/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="104" width="2048" height="1299" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//sustainablemanagement.solutions/wp-content/uploads/2022/10/104.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-8-layer-1" 
+								data-type="text"
+								data-color="rgba(255, 255, 255, 1)"
+								data-rsp_ch="on"
+								data-xy="xo:30px;y:m;yo:-83px;"
+								data-text="l:22;"
+								data-frame_0="y:-50px;"
+								data-frame_1="e:power2.inOut;st:500;sp:1000;sR:500;"
+								data-frame_999="o:0;e:nothing;st:w;sR:3500;"
+								style="z-index:5;font-family:'Roboto';"
+							><div class="consulting-rev-title">
+<mark style="color: #fff;">Thought Leadership</mark>
+</div> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-8-layer-3" 
+								data-type="text"
+								data-color="rgba(255, 255, 255, 1)"
+								data-rsp_ch="on"
+								data-xy="xo:30px;y:m;yo:20px;"
+								data-text="l:22;"
+								data-frame_0="y:50px;"
+								data-frame_1="e:power2.inOut;st:500;sp:1000;sR:500;"
+								data-frame_999="o:0;e:nothing;st:w;sR:3500;"
+								style="z-index:6;font-family:'Roboto';"
+							><div style="color: #fff !important;" class="consulting-rev-text">With over 10 years of experience helping <br/>businesses to find comprehensive solutions</div> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-8-layer-8" 
+								data-type="text"
+								data-color="rgba(255, 255, 255, 1)"
+								data-rsp_ch="on"
+								data-xy="xo:30px;y:m;yo:130px;"
+								data-text="l:22;"
+								data-frame_0="y:50px;"
+								data-frame_1="e:power2.inOut;st:760;sp:1000;sR:760;"
+								data-frame_999="o:0;e:nothing;st:w;sR:3240;"
+								style="z-index:7;font-family:'Roboto';"
+							><a href="https://sustainablemanagement.solutions/about-us/" class="button bordered icon_right">About Us<i class="fa fa-chevron-right"></i></a> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-8-layer-9" 
+								data-type="text"
+								data-color="rgba(255, 255, 255, 1)"
+								data-rsp_ch="on"
+								data-xy="xo:200px;y:m;yo:130px;"
+								data-text="l:22;"
+								data-frame_0="y:50px;"
+								data-frame_1="e:power2.inOut;st:880;sp:950;sR:880;"
+								data-frame_999="o:0;e:nothing;st:w;sR:3170;"
+								style="z-index:8;font-family:'Roboto';"
+							><a href="/services/" class="button bordered icon_right theme_style_4">Our Services<i class="fa fa-chevron-right"></i></a> 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script>
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1240,1240,480],el:[574,574,574,720],gw:[1170,1170,1170,480],gh:[574,574,574,720],type:'standard',justify:'',layout:'fullscreen',offsetContainer:'',offset:'',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider11"]!==undefined) {window.RS_MODULES.modules["revslider11"].once = false;window.revapi1 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div>
+
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a0755f5 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="a0755f5" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-20621fa" data-id="20621fa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-355b2ba elementor-widget elementor-widget-image" data-id="355b2ba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="632" height="560" src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/mark-gorg.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/mark-gorg.png 632w, https://sustainablemanagement.solutions/wp-content/uploads/2022/10/mark-gorg-300x266.png 300w" sizes="(max-width: 632px) 100vw, 632px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ab92b50" data-id="ab92b50" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-48bbf69 elementor-widget elementor-widget-vc_custom_heading" data-id="48bbf69" data-element_type="widget" data-widget_type="vc_custom_heading.default">
+				<div class="elementor-widget-container">
+			<div class=" vc_custom_heading no_stripe consulting_heading_font  text_align_center" ><h4 style="font-size: 32px;color: #002E5B;text-align: center;line-height: 50px;font-weight:700" class="consulting-custom-title"><mark>Welcome to</mark><br />
+Sustainable Management Solutions
+</h4></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cc7f4a5 elementor-widget elementor-widget-text-editor" data-id="cc7f4a5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Since 1995, I’ve been working on sustainable development issues in the Pacific region. Work has taken me to almost every country in the Pacific, but also to Asia, Africa and Europe. From strategic planning to innovation, my focus is always on finding solutions that work for both people and environment. Solutions come through partnerships built with government agencies, the private sector and civil society.</p>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-aa9e56a elementor-align-center elementor-widget elementor-widget-button" data-id="aa9e56a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper icon_align_  ">
+			<a href="https://sustainablemanagement.solutions/about-us/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">READ MORE</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f1b0e09 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f1b0e09" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-62522de" data-id="62522de" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-046c0a8 elementor-widget elementor-widget-vc_custom_heading" data-id="046c0a8" data-element_type="widget" data-widget_type="vc_custom_heading.default">
+				<div class="elementor-widget-container">
+			<div class=" vc_custom_heading base_font_color consulting_heading_font  text_align_center has_subtitle" ><h2 style="font-size: 45px;text-align: center;line-height: 60px;font-weight:700" class="consulting-custom-title">Services We Provide.
+<span class="subtitle">Your Strategic Partner</span></h2></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5ab384 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5ab384" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e5ab954" data-id="e5ab954" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5abf90 elementor-widget elementor-widget-stm_info_box" data-id="e5abf90" data-element_type="widget" data-widget_type="stm_info_box.default">
+				<div class="elementor-widget-container">
+			<div class="info_box elementor-consulting-info-box style_3">
+	<div class="info_box_wrapper">
+					<div class="info_box_image">
+				<img width="350" height="250" src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/Layer-1-1-350x250.jpg" class="attachment-consulting-image-350x250-croped size-consulting-image-350x250-croped" alt="" loading="lazy" />			</div>
+				<div class="info_box_text">
+							<div class="title">
+					<div class="icon">
+						<i class="stm-chart-monitor"></i>
+					</div>
+					<h6 class="no_stripe">
+						<span>Strategic Management</span>
+					</h6>
+				</div>
+						<p>We support organisations with their management needs to ensure maximum benefits for their investment.</p>
+			<a class="read_more" target="_self" href="https://sustainablemanagement.solutions/services/"><span>read more</span><span class="stm_icon"><i class="fa fa-chevron-right"></i></span></a>		</div>
+	</div>
+</div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e5ac6fa" data-id="e5ac6fa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5accd4 elementor-widget elementor-widget-stm_info_box" data-id="e5accd4" data-element_type="widget" data-widget_type="stm_info_box.default">
+				<div class="elementor-widget-container">
+			<div class="info_box elementor-consulting-info-box style_3">
+	<div class="info_box_wrapper">
+					<div class="info_box_image">
+				<img width="350" height="250" src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/shutterstock_201580517-350x250.jpg" class="attachment-consulting-image-350x250-croped size-consulting-image-350x250-croped" alt="" loading="lazy" />			</div>
+				<div class="info_box_text">
+							<div class="title">
+					<div class="icon">
+						<i class="stm-chart-refresh"></i>
+					</div>
+					<h6 class="no_stripe">
+						<span>Actioning Sustainability Efforts</span>
+					</h6>
+				</div>
+						<p>People everywhere are demanding greater environmental and social responsibility from their governments</p>
+			<a class="read_more" target="_self" href="https://sustainablemanagement.solutions/services/"><span>read more</span><span class="stm_icon"><i class="fa fa-chevron-right"></i></span></a>		</div>
+	</div>
+</div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e5ad108" data-id="e5ad108" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5ad746 elementor-widget elementor-widget-stm_info_box" data-id="e5ad746" data-element_type="widget" data-widget_type="stm_info_box.default">
+				<div class="elementor-widget-container">
+			<div class="info_box elementor-consulting-info-box style_3">
+	<div class="info_box_wrapper">
+					<div class="info_box_image">
+				<img width="350" height="250" src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/man-2-350x250.jpg" class="attachment-consulting-image-350x250-croped size-consulting-image-350x250-croped" alt="" loading="lazy" />			</div>
+				<div class="info_box_text">
+							<div class="title">
+					<div class="icon">
+						<i class="stm-earth"></i>
+					</div>
+					<h6 class="no_stripe">
+						<span>Implementation Planning</span>
+					</h6>
+				</div>
+						<p>We provide support to projects to help them overcome any difficulties they may face in any part of the project cycle.</p>
+			<a class="read_more" target="_self" href="https://sustainablemanagement.solutions/services/"><span>read more</span><span class="stm_icon"><i class="fa fa-chevron-right"></i></span></a>		</div>
+	</div>
+</div>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5adb20 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5adb20" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5ae146" data-id="e5ae146" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5ae62e elementor-widget elementor-widget-vc_custom_heading" data-id="e5ae62e" data-element_type="widget" data-widget_type="vc_custom_heading.default">
+				<div class="elementor-widget-container">
+			<div class=" vc_custom_heading base_font_color consulting_heading_font  text_align_center has_subtitle" ><h2 style="font-size: 45px;text-align: center;line-height: 60px;font-weight:700" class="consulting-custom-title">Areas Of Intervention
+<span class="subtitle">Achieving goals through innovative approaches</span></h2></div>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3cabc79 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3cabc79" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-067d480" data-id="067d480" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-90e0c99 elementor-widget elementor-widget-image" data-id="90e0c99" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="316" height="580" src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1001-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1001-1.png 316w, https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1001-1-163x300.png 163w" sizes="(max-width: 316px) 100vw, 316px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-69e5f5e intervention elementor-widget elementor-widget-heading" data-id="69e5f5e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Green Economy</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f2de9ff elementor-widget elementor-widget-text-editor" data-id="f2de9ff" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p align="justify"> Governments and businesses are struggling to transition to a Green Economy. We help build strategies and action plans to aid in this transition as seamlessly as possible, ensuring least disruption to citizens and clients. </p>
+<p>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b93d95b" data-id="b93d95b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ece384c elementor-widget elementor-widget-image" data-id="ece384c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="316" height="580" src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1003-1.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1003-1.jpg 316w, https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1003-1-163x300.jpg 163w" sizes="(max-width: 316px) 100vw, 316px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-25e9049 intervention elementor-widget elementor-widget-heading" data-id="25e9049" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Sustainable Transport</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5755b3b elementor-widget elementor-widget-text-editor" data-id="5755b3b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p align="justify"> As countries transition to cleaner transport technologies, being an essential climate mitigation measure, we can help you produce robust plans that make this change happen without experiencing severe economic disruption. </p>
+<p>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-bac55b2" data-id="bac55b2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d29c210 elementor-widget elementor-widget-image" data-id="d29c210" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="316" height="580" src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1002.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1002.png 316w, https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1002-163x300.png 163w" sizes="(max-width: 316px) 100vw, 316px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-2bfbdcb intervention elementor-widget elementor-widget-heading" data-id="2bfbdcb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Natural Resource Management</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5367bcd elementor-widget elementor-widget-text-editor" data-id="5367bcd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p align="justify"> The Covid-19 pandemic has taught us the importance of becoming self-reliant and self-sustainable. This is a challenge for small island countries that requires us to maximize the use of our natural resources while ensuring this is done sustainably. We can help you achieve  that important balance. </p>
+<p>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-c8d2721" data-id="c8d2721" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-26babc5 elementor-widget elementor-widget-image" data-id="26babc5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="316" height="580" src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1004-1.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1004-1.jpg 316w, https://sustainablemanagement.solutions/wp-content/uploads/2022/10/1004-1-163x300.jpg 163w" sizes="(max-width: 316px) 100vw, 316px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3f9e93a intervention elementor-widget elementor-widget-heading" data-id="3f9e93a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Climate Action</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2d26c31 elementor-widget elementor-widget-text-editor" data-id="2d26c31" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p align="justify"> Without any doubt, climate change is the greatest development challenge of our time. We can help you prepare to meet this challenge by supporting both your mitigation and adaptation efforts, and achieve your nationally determined contributions.</p>
+<p>
+						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5b1c6f overlay fixed_bg elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5b1c6f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5b256d" data-id="e5b256d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-e5b2a96 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5b2a96" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5b303d" data-id="e5b303d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b33e1 elementor-widget elementor-widget-vc_custom_heading" data-id="e5b33e1" data-element_type="widget" data-widget_type="vc_custom_heading.default">
+				<div class="elementor-widget-container">
+			<div class=" vc_custom_heading no_stripe consulting_heading_font  text_align_left has_icon" ><div class="icon" style="font-size: 67px; line-height: 67px;"><i class="stm-check"></i></div><h4 style="font-size: 45px;color: #ffffff;text-align: left;line-height: 45px;font-weight:700" class="consulting-custom-title"><mark>Thanks to our business tips</mark><br />
+You’ll improve your performance!
+</h4></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5b3623 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5b3623" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-e5b3a97" data-id="e5b3a97" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b3e62 elementor-widget elementor-widget-stm_stats_counter" data-id="e5b3e62" data-element_type="widget" data-widget_type="stm_stats_counter.default">
+				<div class="elementor-widget-container">
+			    <div class="stats_counter style_1   consulting_elementor_stats_counter" >
+        <div class="inner ">
+            <h3 class="no_stripe" id="counter_634117c1c17c2" >0</h3>
+                            <div class="counter_title" >Cases completed</div>
+                                </div>
+    </div>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        var counter_634117c1c17c2 =
+        new countUp("counter_634117c1c17c2", 0, 321, 0, 2.5, {
+            useEasing: true,
+            useGrouping: false,
+            prefix: '',
+            suffix: '<span class="stats_counter_suffix"></span>'
+        });
+        $(window).scroll(function () {
+            if ($("#counter_634117c1c17c2").is_on_screen()) {
+                counter_634117c1c17c2.
+                start();
+            }
+        });
+    });
+</script>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-e5b3f1f" data-id="e5b3f1f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b4250 elementor-widget elementor-widget-stm_stats_counter" data-id="e5b4250" data-element_type="widget" data-widget_type="stm_stats_counter.default">
+				<div class="elementor-widget-container">
+			    <div class="stats_counter style_1   consulting_elementor_stats_counter" >
+        <div class="inner ">
+            <h3 class="no_stripe" id="counter_634117c1c23ff" >0</h3>
+                            <div class="counter_title" >Consultants</div>
+                                </div>
+    </div>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        var counter_634117c1c23ff =
+        new countUp("counter_634117c1c23ff", 0, 27, 0, 2.5, {
+            useEasing: true,
+            useGrouping: false,
+            prefix: '',
+            suffix: '<span class="stats_counter_suffix"></span>'
+        });
+        $(window).scroll(function () {
+            if ($("#counter_634117c1c23ff").is_on_screen()) {
+                counter_634117c1c23ff.
+                start();
+            }
+        });
+    });
+</script>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-e5b42f7" data-id="e5b42f7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b4652 elementor-widget elementor-widget-stm_stats_counter" data-id="e5b4652" data-element_type="widget" data-widget_type="stm_stats_counter.default">
+				<div class="elementor-widget-container">
+			    <div class="stats_counter style_1   consulting_elementor_stats_counter" >
+        <div class="inner ">
+            <h3 class="no_stripe" id="counter_634117c1c2fd6" >0</h3>
+                            <div class="counter_title" >Awards winning</div>
+                                </div>
+    </div>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        var counter_634117c1c2fd6 =
+        new countUp("counter_634117c1c2fd6", 0, 125, 0, 2.5, {
+            useEasing: true,
+            useGrouping: false,
+            prefix: '',
+            suffix: '<span class="stats_counter_suffix"></span>'
+        });
+        $(window).scroll(function () {
+            if ($("#counter_634117c1c2fd6").is_on_screen()) {
+                counter_634117c1c2fd6.
+                start();
+            }
+        });
+    });
+</script>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-e5b46fd" data-id="e5b46fd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b4a43 elementor-widget elementor-widget-stm_stats_counter" data-id="e5b4a43" data-element_type="widget" data-widget_type="stm_stats_counter.default">
+				<div class="elementor-widget-container">
+			    <div class="stats_counter style_1   consulting_elementor_stats_counter" >
+        <div class="inner ">
+            <h3 class="no_stripe" id="counter_634117c1c3ba1" >0</h3>
+                            <div class="counter_title" >Satisfied customers</div>
+                                </div>
+    </div>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+        var counter_634117c1c3ba1 =
+        new countUp("counter_634117c1c3ba1", 0, 100, 0, 2.5, {
+            useEasing: true,
+            useGrouping: false,
+            prefix: '',
+            suffix: '<span class="stats_counter_suffix">%</span>'
+        });
+        $(window).scroll(function () {
+            if ($("#counter_634117c1c3ba1").is_on_screen()) {
+                counter_634117c1c3ba1.
+                start();
+            }
+        });
+    });
+</script>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5b4b02 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5b4b02" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5b4f6e" data-id="e5b4f6e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b530f elementor-widget elementor-widget-vc_custom_heading" data-id="e5b530f" data-element_type="widget" data-widget_type="vc_custom_heading.default">
+				<div class="elementor-widget-container">
+			<div class=" vc_custom_heading base_font_color consulting_heading_font  text_align_center" ><h2 style="font-size: 45px;text-align: center;line-height: 60px;font-weight:700" class="consulting-custom-title">Testimonials
+</h2></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e5b5512 elementor-widget elementor-widget-stm_testimonials_carousel" data-id="e5b5512" data-element_type="widget" data-widget_type="stm_testimonials_carousel.default">
+				<div class="elementor-widget-container">
+			    <div class=" consulting_elementor_testimonials_carousel testimonials_carousel style_1 per_row_2" id="partners_carousel_634117c1c7460">
+        
+                            <div class="testimonial">
+                                        <div class="image">
+                                                    <img src='https://sustainablemanagement.solutions/wp-content/uploads/elementor/thumbs/Christian-Gorg-pvkaqmuckejqr0o4hkgk1rilmpjukc3up393nk41m4.jpg' alt='' />                                            </div>
+                    <div class="info">
+                        <h4 class="no_stripe">
+                                                            Christian Görg                                                    </h4>
+                                                                                                            <div class="position">Project Manager Regional Pacific NDC Hub from 2020-2022</div>
+                                                                                        <div class="company">GIZ</div>
+                                                                            <p>Mark has been accompanying us in the NDC Hub for the entire second phase in an extremely reliable manner. He is precise, flexible and his deliverables are always of very high quality. We are very grateful to have him as part of our extended team.</p>
+                    </div>
+                </div>
+            
+        
+                            <div class="testimonial">
+                                        <div class="image">
+                                                    <img src='https://sustainablemanagement.solutions/wp-content/uploads/elementor/thumbs/Rebecca-Eldon-pvkbcp3yzer19imenlsb2p33lat08kp1eaie6dedkc.jpg' alt='' />                                            </div>
+                    <div class="info">
+                        <h4 class="no_stripe">
+                                                            Rebecca Eldon                                                    </h4>
+                                                                                                            <div class="position">Advisor - Monitoring &amp; Evaluation</div>
+                                                                                        <div class="company">Regional Pacific NDC Hub</div>
+                                                                            <p>Mark is incredibly thorough and detailed in his approach, effective at succinctly summarizing information, and communicates outcomes of his research in a clear and engaging way. In addition, he is an absolute pleasure to work with.</p>
+                    </div>
+                </div>
+            
+        
+                            <div class="testimonial">
+                                        <div class="image">
+                                                    <img src='https://sustainablemanagement.solutions/wp-content/uploads/elementor/thumbs/Dr-Lex-Thomson-pvkbiu01lh5f1vpjtr9muncf6uk9hg1yknthyeauy4.png' alt='' />                                            </div>
+                    <div class="info">
+                        <h4 class="no_stripe">
+                                                            Dr Lex Thomson                                                    </h4>
+                                                                                                            <div class="position">Senior Forestry Consultant FAO SAPA</div>
+                                                                                        <div class="company">Australian Centre for Pacific Islands Research</div>
+                                                                            <p>Mark Borg is a consummate and dedicated professional working to improving the livelihoods of Pacific Islands peoples. He has a strong sense of social and environmental justice.</p>
+                    </div>
+                </div>
+            
+            </div>
+            <script type="text/javascript">
+            jQuery(document).ready(function ($) {
+                "use strict";
+                var partners_carousel_634117c1c7460 = $("#partners_carousel_634117c1c7460");
+                var slickRtl = false;
+
+                if ($('body').hasClass('rtl')) {
+                    slickRtl = true;
+                }
+
+                
+                partners_carousel_634117c1c7460.
+                slick({
+                    rtl: slickRtl,
+                    dots: false,
+                    infinite: true,
+                    arrows: true,prevArrow:"<div class=\"slick_prev\"><i class=\"fa fa-chevron-left\"></i></div>",nextArrow: "<div class=\"slick_next\"><i class=\"fa fa-chevron-right\"></i></div>",                    autoplaySpeed: 5000,
+                    autoplay: false,
+                    slidesToShow: 2,
+                    cssEase: "cubic-bezier(0.455, 0.030, 0.515, 0.955)",
+                    responsive: [
+                        {
+                            breakpoint: 769,
+                            settings: {
+                                slidesToShow: 1
+                            }
+                        }
+                    ]
+                });
+            });
+        </script>
+    		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fc7aee8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fc7aee8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5b718e" data-id="e5b718e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b74cf elementor-widget elementor-widget-vc_custom_heading" data-id="e5b74cf" data-element_type="widget" data-widget_type="vc_custom_heading.default">
+				<div class="elementor-widget-container">
+			<div class=" vc_custom_heading  consulting_heading_font  text_align_center" ><div style="font-size: 28px;color: #ffffff;text-align: center;line-height: 50px;font-weight:700" class="consulting-custom-title">As we’re managing the aspects of your business,<br />
+<mark>YOUR REVENUE CONTINUES TO GROW</mark>
+</div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-47a1fbe elementor-align-center elementor-widget elementor-widget-button" data-id="47a1fbe" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper icon_align_  ">
+			<a href="https://sustainablemanagement.solutions/about-us/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">LEARN MORE</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5b76cf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5b76cf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5b7abf" data-id="e5b7abf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b7ddc elementor-widget elementor-widget-vc_custom_heading" data-id="e5b7ddc" data-element_type="widget" data-widget_type="vc_custom_heading.default">
+				<div class="elementor-widget-container">
+			<div class=" vc_custom_heading  consulting_heading_font  text_align_center" ><h2 style="font-size: 45px;text-align: center;font-weight:700" class="consulting-custom-title">Blogs
+</h2></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5b7fb7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5b7fb7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e5b8425" data-id="e5b8425" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b87c8 elementor-widget elementor-widget-stm_news" data-id="e5b87c8" data-element_type="widget" data-widget_type="stm_news.default">
+				<div class="elementor-widget-container">
+			
+
+    <div class="stm_news  consulting_elementor_posts">
+        <ul class="news_list posts_per_row_4">
+
+            
+                <li>
+                    <div class="post_inner">
+                                                                                                                        <div class="image">
+                                        <a href="https://sustainablemanagement.solutions/a-bamboo-agribusiness-compendium-for-the-pacific-2/">
+                                            <img src='https://sustainablemanagement.solutions/wp-content/uploads/2019/12/blog1-350x250.png' alt='' />                                        </a>
+                                    </div>
+                                                                                                                        <div class="stm_news_unit-block">
+                                    <h5 class="no_stripe"><a href="https://sustainablemanagement.solutions/a-bamboo-agribusiness-compendium-for-the-pacific-2/">A Bamboo Agribusiness Compendium for the Pacific</a>
+                                    </h5>
+
+                                                                            <div class="stm_the_excerpt">
+                                            <p>A Bamboo Agribusiness Compendium for the Pacific was published by PARDI 2 (Pacific Agribusiness Research in Development Initiative 2) late last year. </p>
+<p>This is an important addition to the scarce bamboo related literature from the Pacific. </p>
+<p>The compendium is divided into six easy-to-follow modules:</p>
+<p>    1. Before you start;</p>
+<p>    2. Establishing your bamboo plantation or agroforest;</p>
+<p>    3. Planning your bamboo nursery business;</p>
+<p>    4. Mixed bamboo smallholder farming business;</p>
+<p>    5. Production of bamboo charcoal and biochar; and</p>
+<p>    6. Bamboo markets and marketing.</p>
+<p>This Compendium provides an insight into bamboo&#8230; the varieties of bamboo species suited to the Pacific Islands for different uses, and highlights issues to consider before embarking on bamboo farming and agribusiness. It contains an overview of what is needed to establish a smallholder bamboo plantation or agroforest. It also provides advice on planning a bamboo nursery business with all the information that is needed to develop such a business in the Pacific Islands.</p>
+<p>Another section of the Compendium focuses on the development of a mixed farming business that could produce edible shoots and timber/poles from two bamboo species in Fiji. There is also a case study on the production of charcoal and biochar from bamboo as a commercially-promising and environmentally friendly business. Finally the Compendium provides advice on how to capitalise on the market opportunities for bamboo, including the different value chains in which bamboo products could be sold. </p>
+<p>The Compendium was written by Lex Thomson, a veteran forester in the Pacific, with contributions from Mark Borg and Soko Sukulu.</p>
+<p>As the Compendium observes, bamboos offer considerable potential for rural development in the South Pacific. Pacific islands countries need to realise the potential of this green resource and put in place policies to support this industry. This compendium is an important tool for entrepreneurs who want to embark on this journey. </p>
+<p>One can download the Compendium here.</p>
+                                        </div>
+                                                                                                                <div class="date">
+                                                                                            <span class="the_date">October 1, 2022</span>
+                                                                                                                                    <a href="https://sustainablemanagement.solutions/a-bamboo-agribusiness-compendium-for-the-pacific-2/"
+                                               class="button size-lg hidden">Read more</a>
+                                        </div>
+                                                                    </div>
+                                                                        </div>
+                </li>
+            
+                <li>
+                    <div class="post_inner">
+                                                                                                                        <div class="image">
+                                        <a href="https://sustainablemanagement.solutions/mangroves-the-habitat-of-hope/">
+                                            <img src='https://sustainablemanagement.solutions/wp-content/uploads/2016/01/blog2-350x250.png' alt='' />                                        </a>
+                                    </div>
+                                                                                                                        <div class="stm_news_unit-block">
+                                    <h5 class="no_stripe"><a href="https://sustainablemanagement.solutions/mangroves-the-habitat-of-hope/">Mangroves – the habitat of hope.</a>
+                                    </h5>
+
+                                                                            <div class="stm_the_excerpt">
+                                            <p>Mangrove ecosystems are found in the coastal areas of most tropical countries. In recent years conservation organisations have been able to raise the profile of mangroves for people to stop considering them as just swamps.</p>
+                                        </div>
+                                                                                                                <div class="date">
+                                                                                            <span class="the_date">October 1, 2022</span>
+                                                                                                                                    <a href="https://sustainablemanagement.solutions/mangroves-the-habitat-of-hope/"
+                                               class="button size-lg hidden">Read more</a>
+                                        </div>
+                                                                    </div>
+                                                                        </div>
+                </li>
+            
+                <li>
+                    <div class="post_inner">
+                                                                                                                        <div class="image">
+                                        <a href="https://sustainablemanagement.solutions/seaweed-the-oceans-gift/">
+                                            <img src='https://sustainablemanagement.solutions/wp-content/uploads/2022/10/blog1000-350x250.jpg' alt='' />                                        </a>
+                                    </div>
+                                                                                                                        <div class="stm_news_unit-block">
+                                    <h5 class="no_stripe"><a href="https://sustainablemanagement.solutions/seaweed-the-oceans-gift/">Seaweed &#8211; the Ocean&#8217;s gift</a>
+                                    </h5>
+
+                                                                            <div class="stm_the_excerpt">
+                                            <p>As custodians of the biggest ocean on the planet, Pacific Island nations are on the front-line of the Blue Economy challenge and rely on healthy ocean ecosystems for economic growth, food security and natural capital.</p>
+                                        </div>
+                                                                                                                <div class="date">
+                                                                                            <span class="the_date">October 1, 2022</span>
+                                                                                                                                    <a href="https://sustainablemanagement.solutions/seaweed-the-oceans-gift/"
+                                               class="button size-lg hidden">Read more</a>
+                                        </div>
+                                                                    </div>
+                                                                        </div>
+                </li>
+            
+                <li>
+                    <div class="post_inner">
+                                                                                                                        <div class="image">
+                                        <a href="https://sustainablemanagement.solutions/private-sector-sustainability/">
+                                            <img src='https://sustainablemanagement.solutions/wp-content/uploads/2022/10/blog1001-350x250.jpg' alt='' />                                        </a>
+                                    </div>
+                                                                                                                        <div class="stm_news_unit-block">
+                                    <h5 class="no_stripe"><a href="https://sustainablemanagement.solutions/private-sector-sustainability/">Private Sector Sustainability</a>
+                                    </h5>
+
+                                                                            <div class="stm_the_excerpt">
+                                            <p>As world leaders gathered in New York in 2015 and endorsed the Sustainable Development Goals (SDGs), many in the private sector had little idea how these will affect them or what their role would be to achieve these global goals.</p>
+                                        </div>
+                                                                                                                <div class="date">
+                                                                                            <span class="the_date">October 1, 2022</span>
+                                                                                                                                    <a href="https://sustainablemanagement.solutions/private-sector-sustainability/"
+                                               class="button size-lg hidden">Read more</a>
+                                        </div>
+                                                                    </div>
+                                                                        </div>
+                </li>
+                    </ul>
+    </div>
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-76b0a6f elementor-align-center elementor-widget elementor-widget-button" data-id="76b0a6f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper icon_align_  ">
+			<a href="https://sustainablemanagement.solutions/blogs/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">MORE BLOGS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e5b886e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e5b886e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e5b8d47" data-id="e5b8d47" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b915e elementor-widget elementor-widget-vc_custom_heading" data-id="e5b915e" data-element_type="widget" data-widget_type="vc_custom_heading.default">
+				<div class="elementor-widget-container">
+			<div class=" vc_custom_heading  consulting_heading_font  text_align_left" ><div style="font-size: 36px;color: #ffffff;text-align: left;line-height: 38px;font-weight:700" class="consulting-custom-title">Request A Consultation
+</div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-e5b9619" data-id="e5b9619" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e5b99c8 elementor-widget elementor-widget-stm_contact_form_7" data-id="e5b99c8" data-element_type="widget" data-widget_type="stm_contact_form_7.default">
+				<div class="elementor-widget-container">
+			<div role="form" class="wpcf7" id="wpcf7-f1284-p1024-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f1284-p1024-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1284" />
+<input type="hidden" name="_wpcf7_version" value="5.6.3" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1284-p1024-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="1024" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="request_callback">
+<p>I would like to discuss:</p>
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="input-group">
+                <span class="wpcf7-form-control-wrap" data-name="services_consulting"><select name="services_consulting" class="wpcf7-form-control wpcf7-select" aria-invalid="false"><option value="">Strategic Management</option><option value="Actioning Sustainability Efforts">Actioning Sustainability Efforts</option><option value="Implementation Planning">Implementation Planning</option></select></span>
+            </div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="input-group">
+                <span class="wpcf7-form-control-wrap" data-name="text-name"><input type="text" name="text-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name" /></span>
+            </div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="input-group">
+                <span class="wpcf7-form-control-wrap" data-name="phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone number" /></span>
+            </div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<div class="input-group">
+                <button type="submit" class="button size-lg icon_right">submit <i class="fa fa-chevron-right"></i></button>
+            </div>
+</div>
+</div>
+</div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		        			</div>
+	
+</article>
+	</div>
+
+            </div> <!--.container-->
+        </div> <!--#main-->
+    </div> <!--.content_wrapper-->
+                
+            <footer id="footer" class="footer style_1">
+                
+                                                <div class="widgets_row">
+                        <div class="container">
+                            <div class="footer_widgets">
+                                <div class="row">
+                                                                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                                                                                                                                <div class="footer_logo">
+            <a href="https://sustainablemanagement.solutions/">
+            <img src="https://sustainablemanagement.solutions/wp-content/uploads/2022/10/favicon.png"
+                 alt="Sustainability Management Consulting"
+                 width="264"
+                 height="264"
+                 style="width:100px;height:auto;" />
+        </a>
+    </div>                                                                                                                                                    <div class="footer_text">
+                                                        <p>Since 1995, I’ve been working on sustainable development issues in the Pacific region. Work has taken me to almost every country in the Pacific, but also to Asia, Africa and Europe.</p>
+                                                    </div>
+                                                                                                                                                                                                                                                                                                                                    </div>
+                                                                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                                                                        
+		<section id="recent-posts-4" class="widget widget_recent_entries">
+		<h4 class="widget_title no_stripe">Recent Blogs</h4>
+		<ul>
+											<li>
+					<a href="https://sustainablemanagement.solutions/hemp-and-sustainable-development/">Hemp and Sustainable Development</a>
+											<span class="post-date">October 1, 2022</span>
+									</li>
+											<li>
+					<a href="https://sustainablemanagement.solutions/building-a-bamboo-industry-in-fiji/">Building a bamboo industry in Fiji</a>
+											<span class="post-date">October 1, 2022</span>
+									</li>
+					</ul>
+
+		</section>                                        </div>
+                                                                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                                                                        <section id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget_title no_stripe">Quick Menu</h4><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-7418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1024 current_page_item menu-item-7418"><a href="https://sustainablemanagement.solutions/" aria-current="page">Home</a></li>
+<li id="menu-item-7419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7419"><a href="https://sustainablemanagement.solutions/about-us/">About Us</a></li>
+<li id="menu-item-7420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7420"><a href="https://sustainablemanagement.solutions/blogs/">Blogs</a></li>
+<li id="menu-item-7422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7422"><a href="https://sustainablemanagement.solutions/services/">Services</a></li>
+<li id="menu-item-7421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7421"><a href="https://sustainablemanagement.solutions/contact-us/">Contact Us</a></li>
+<li id="menu-item-7425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-7425"><a href="https://sustainablemanagement.solutions/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-7423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7423"><a href="https://sustainablemanagement.solutions/terms-of-use/">Terms of Use</a></li>
+</ul></div></section>                                        </div>
+                                                                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                                                                        <section id="contacts-2" class="widget widget_contacts"><h4 class="widget_title no_stripe">Contact</h4><ul class="stm_list-duty heading-font"><li class="widget_contacts_address"><div class="icon"><i class="stm-location-2"></i></div><div class="text">Sustainable Management Solutions</div></li><li class="widget_contacts_phone"><div class="icon"><i class="stm-iphone"></i></div><div class="text">+6799427485</div></li><li class="widget_contacts_email"><div class="icon"><i class="stm-email"></i></div><div class="text"><a href="mailto:admin@sustainablemanagement.solutions">admin@sustainablemanagement.solutions</a><br /></div></li></ul></section>                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                            
+                                    <div class="copyright_row">
+                        <div class="container">
+                            <div class="copyright_row_wr">
+                                                                                                            <div class="socials">
+                                            <ul>
+                                                                                                    <li>
+                                                        <a href="https://www.facebook.com/SDManagementConsulting/" target="_blank"
+                                                           class="social-facebook">
+                                                            <i class="fa fa-facebook"></i>
+                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://www.linkedin.com/in/mark-borg-9025b149" target="_blank"
+                                                           class="social-linkedin">
+                                                            <i class="fa fa-linkedin"></i>
+                                                        </a>
+                                                    </li>
+                                                                                            </ul>
+                                        </div>
+                                                                                                                                        <div class="copyright">
+                                                                                    © 2022 Sustainable Management Solutions by Mark Borg | All Rights Reserved                                                                            </div>
+                                                            </div>
+                        </div>
+                    </div>
+                            </footer>
+                </div> <!--#wrapper-->
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://sustainablemanagement.solutions/wp-admin/admin-ajax.php";
+</script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+<script>
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+			<link rel="preload" as="font" id="rs-icon-set-revicon-woff" href="https://sustainablemanagement.solutions/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888" type="font/woff" crossorigin="anonymous" media="all" />
+			<link rel="preload" as="font" id="rs-icon-set-fa-icon-woff" type="font/woff2" crossorigin="anonymous" href="https://sustainablemanagement.solutions/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" media="all" />
+			<link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css" href="https://sustainablemanagement.solutions/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css" type="text/css" media="all" />
+<link rel='stylesheet' id='slick-css'  href='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/css/slick.css?ver=6.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://sustainablemanagement.solutions/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.19' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+		#rev_slider_1_1_wrapper .hesperiden.tparrows{cursor:pointer;background:rgba(0,0,0,0.5);width:40px;height:40px;position:absolute;display:block;z-index:1000;  border-radius:50%}#rev_slider_1_1_wrapper .hesperiden.tparrows.rs-touchhover{background:#000000}#rev_slider_1_1_wrapper .hesperiden.tparrows:before{font-family:'revicons';font-size:20px;color:#ffffff;display:block;line-height:40px;text-align:center}#rev_slider_1_1_wrapper .hesperiden.tparrows.tp-leftarrow:before{content:'\e82c';  margin-left:-3px}#rev_slider_1_1_wrapper .hesperiden.tparrows.tp-rightarrow:before{content:'\e82d';  margin-right:-3px}
+</style>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.3' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/sustainablemanagement.solutions\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.18' defer async id='tp-tools-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.19' defer async id='revmin-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/js/bootstrap.min.js?ver=6.3.3' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/js/select2.min.js?ver=6.3.3' id='select2-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/js/custom.js?ver=6.3.3' id='consulting-custom-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/js/countUp.min.js?ver=6.3.3' id='countUp-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/js/slick.min.js?ver=6.3.3' id='slick-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/js/isotope.pkgd.min.js?ver=6.3.3' id='isotope-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/themes/consulting/assets/js/packery-mode.pkgd.min.js?ver=6.3.3' id='packery-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.8' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.8' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.8","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/sustainablemanagement.solutions\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1024,"title":"Sustainability%20Management%20Consulting%20%E2%80%93%20Mark%20Borg","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://sustainablemanagement.solutions/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.8' id='elementor-frontend-js'></script>
+<script id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi1;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider11"] = {once: RS_MODULES.modules["revslider11"]!==undefined ? RS_MODULES.modules["revslider11"].once : undefined, init:function() {
+			window.revapi1 = window.revapi1===undefined || window.revapi1===null || window.revapi1.length===0  ? document.getElementById("rev_slider_1_1") : window.revapi1;
+			if(window.revapi1 === null || window.revapi1 === undefined || window.revapi1.length==0) { window.revapi1initTry = window.revapi1initTry ===undefined ? 0 : window.revapi1initTry+1; if (window.revapi1initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider11"].init()}); return;}
+			window.revapi1 = jQuery(window.revapi1);
+			if(window.revapi1.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_1_1"); return;}
+			revapi1.revolutionInit({
+					revapi:"revapi1",
+					DPR:"dpr",
+					sliderLayout:"fullscreen",
+					visibilityLevels:"1240,1240,1240,480",
+					gridwidth:"1170,1170,1170,480",
+					gridheight:"574,574,574,720",
+					lazyType:"smart",
+					spinner:"spinner0",
+					perspective:600,
+					perspectiveType:"local",
+					editorheight:"574,768,960,720",
+					responsiveLevels:"1240,1240,1240,480",
+					progressBar:{disableProgressBar:true},
+					navigation: {
+						mouseScrollNavigation:false,
+						wheelCallDelay:1000,
+						onHoverStop:false,
+						arrows: {
+							enable:true,
+							style:"hesperiden",
+							left: {
+								h_offset:210
+							},
+							right: {
+								h_offset:210
+							}
+						}
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false,
+						visible_area:"20%"
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
+
+        <style type="text/css">
+        #footer .footer_widgets .widget .widget_title {
+            border-top: transparent !important;
+        }
+                body #footer,
+        body #footer div, body #footer div:before, body #footer div:after,
+        body #footer h1,body #footer h2,body #footer h3,body #footer h4,body #footer h5,body #footer h6,
+        body #footer p, body #footer p:before, body #footer p:after,
+        body #footer span, body #footer span:before, body #footer span:after {
+            color: rgba(255,255,255,1) !important;
+        }
+                                        body #footer {
+            background-color: #31353d !important;
+        }
+                    </style>
+
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: sustainablemanagement.solutions @ 2022-10-08 06:25:05 by W3 Total Cache
+-->
